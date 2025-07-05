@@ -1,5 +1,7 @@
 # YouTube Downloader
 
+[![CICD Test](https://github.com/harrythecode/youtube-downloader/actions/workflows/cicd-test.yml/badge.svg)](https://github.com/harrythecode/youtube-downloader/actions/workflows/cicd-test.yml)
+
 A simple tool to download YouTube videos and audio with a multi-language (English/Japanese) user interface.
 
 ### Features

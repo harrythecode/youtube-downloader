@@ -1,4 +1,4 @@
-name: Language Test
+name: CICD Test
 
 on:
   push:
