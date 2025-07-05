@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-05 18:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: youtube-scraper.py:31
+msgid "Please enter the YouTube video URL to download: "
+msgstr ""
+
+#: youtube-scraper.py:34
+msgid ""
+"\n"
+"Fetching video information..."
+msgstr ""
+
+#: youtube-scraper.py:45
+msgid "Title: {}"
+msgstr ""
+
+#: youtube-scraper.py:46
+msgid "Channel: {}"
+msgstr ""
+
+#: youtube-scraper.py:47
+msgid "Duration: {} min {} sec"
+msgstr ""
+
+#: youtube-scraper.py:51
+msgid ""
+"\n"
+"Error: Failed to fetch video information. Please check if the URL is correct."
+msgstr ""
+
+#: youtube-scraper.py:52
+msgid "Details: {}"
+msgstr ""
+
+#: youtube-scraper.py:55
+msgid "Select download type (1: Video, 2: Audio only): "
+msgstr ""
+
+#: youtube-scraper.py:61
+msgid ""
+"\n"
+"Available video streams (MP4):"
+msgstr ""
+
+#: youtube-scraper.py:63
+msgid "No suitable video streams found."
+msgstr ""
+
+#: youtube-scraper.py:70
+msgid ""
+"\n"
+"Available audio streams:"
+msgstr ""
+
+#: youtube-scraper.py:72
+msgid "No suitable audio streams found."
+msgstr ""
+
+#: youtube-scraper.py:75
+msgid "Invalid selection."
+msgstr ""
+
+#: youtube-scraper.py:83
+msgid "{}: Resolution={}, Ext={}, Size={}"
+msgstr ""
+
+#: youtube-scraper.py:86
+msgid "{}: Bitrate={}, Format={}, Size={}"
+msgstr ""
+
+#: youtube-scraper.py:89
+msgid ""
+"\n"
+"Enter the number of the format you want to download: "
+msgstr ""
+
+#: youtube-scraper.py:93
+msgid "Invalid input."
+msgstr ""
+
+#: youtube-scraper.py:96
+msgid ""
+"\n"
+"Starting download..."
+msgstr ""
+
+#: youtube-scraper.py:110
+msgid ""
+"\n"
+"Download completed successfully!"
+msgstr ""
+
+#: youtube-scraper.py:112
+msgid ""
+"\n"
+"An error occurred during download: {}"
+msgstr ""
+
+#: youtube-scraper.py:125
+msgid ""
+"\n"
+"Finished processing: '{}'"
+msgstr ""

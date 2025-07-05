@@ -1,0 +1,262 @@
+# Japanese translations for PACKAGE package.
+# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# harry <harrythecode@users.noreply.github.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-05 18:02+0900\n"
+"PO-Revision-Date: 2025-07-05 18:04+0900\n"
+"Last-Translator: harry <harrythecode@users.noreply.github.com>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: youtube-scraper.py:31
+msgid "Please enter the YouTube video URL to download: "
+msgstr "ダウンロードするYouTube動画のURLを入力してください: "
+
+#: youtube-scraper.py:34
+msgid ""
+"\n"
+"Fetching video information..."
+msgstr ""
+"\n"
+"動画情報を取得しています..."
+
+#: youtube-scraper.py:45
+msgid "Title: {}"
+msgstr "タイトル: {}"
+
+#: youtube-scraper.py:46
+msgid "Channel: {}"
+msgstr "チャンネル: {}"
+
+#: youtube-scraper.py:47
+msgid "Duration: {} min {} sec"
+msgstr "長さ: {}分{}秒"
+
+#: youtube-scraper.py:51
+msgid ""
+"\n"
+"Error: Failed to fetch video information. Please check if the URL is correct."
+msgstr ""
+"\n"
+"エラー: 動画情報の取得に失敗しました。URLが正しいか確認してください。"
+
+#: youtube-scraper.py:52
+msgid "Details: {}"
+msgstr "詳細: {}"
+
+#: youtube-scraper.py:55
+msgid "Select download type (1: Video, 2: Audio only): "
+msgstr "ダウンロード形式を選択してください (1: 動画, 2: 音声のみ): "
+
+#: youtube-scraper.py:61
+msgid ""
+"\n"
+"Available video streams (MP4):"
+msgstr ""
+"\n"
+"利用可能な動画ストリーム (MP4):"
+
+#: youtube-scraper.py:63
+msgid "No suitable video streams found."
+msgstr "適切な動画ストリームが見つかりませんでした。"
+
+#: youtube-scraper.py:70
+msgid ""
+"\n"
+"Available audio streams:"
+msgstr ""
+"\n"
+"利用可能な音声ストリーム:"
+
+#: youtube-scraper.py:72
+msgid "No suitable audio streams found."
+msgstr "適切な音声ストリームが見つかりませんでした。"
+
+#: youtube-scraper.py:75
+msgid "Invalid selection."
+msgstr "無効な選択です。"
+
+#: youtube-scraper.py:83
+msgid "{}: Resolution={}, Ext={}, Size={}"
+msgstr "{}: 解像度={}, 形式={}, サイズ={}"
+
+#: youtube-scraper.py:86
+msgid "{}: Bitrate={}, Format={}, Size={}"
+msgstr "{}: ビットレート={}, 形式={}, サイズ={}"
+
+#: youtube-scraper.py:89
+msgid ""
+"\n"
+"Enter the number of the format you want to download: "
+msgstr ""
+"\n"
+"ダウンロードしたいフォーマットの番号を入力してください: "
+
+#: youtube-scraper.py:93
+msgid "Invalid input."
+msgstr "無効な入力です。"
+
+#: youtube-scraper.py:96
+msgid ""
+"\n"
+"Starting download..."
+msgstr ""
+"\n"
+"ダウンロードを開始しています..."
+
+#: youtube-scraper.py:110
+msgid ""
+"\n"
+"Download completed successfully!"
+msgstr ""
+"\n"
+"ダウンロードが正常に完了しました！"
+
+#: youtube-scraper.py:112
+msgid ""
+"\n"
+"An error occurred during download: {}"
+msgstr ""
+"\n"
+"ダウンロード中にエラーが発生しました: {}"
+
+#: youtube-scraper.py:125
+msgid ""
+"\n"
+"Finished processing: '{}'"
+msgstr ""
+"\n"
+"'{}' の処理が完了しました。"
+
+#: youtube-scraper.py:140
+msgid "=== YouTube Downloader ==="
+msgstr "=== YouTube ダウンローダー ==="
+
+#: youtube-scraper.py:141
+msgid "1. Download Video/Audio"
+msgstr "1. 動画/音声をダウンロード"
+
+#: youtube-scraper.py:142
+msgid "2. Help"
+msgstr "2. ヘルプ"
+
+#: youtube-scraper.py:143
+msgid "3. Language Settings"
+msgstr "3. 言語設定"
+
+#: youtube-scraper.py:144
+msgid "4. Exit"
+msgstr "4. 終了"
+
+#: youtube-scraper.py:145
+msgid "Please select an option (1-4): "
+msgstr "オプションを選択してください (1-4): "
+
+#: youtube-scraper.py:150
+msgid "=== Help ==="
+msgstr "=== ヘルプ ==="
+
+#: youtube-scraper.py:151
+msgid "This tool allows you to download YouTube videos and audio files."
+msgstr "このツールでは、YouTubeの動画と音声ファイルをダウンロードできます。"
+
+#: youtube-scraper.py:152
+msgid "Features:"
+msgstr "機能:"
+
+#: youtube-scraper.py:153
+msgid "- Download videos in MP4 format"
+msgstr "- MP4形式で動画をダウンロード"
+
+#: youtube-scraper.py:154
+msgid "- Download audio only"
+msgstr "- 音声のみをダウンロード"
+
+#: youtube-scraper.py:155
+msgid "- Choose quality and format"
+msgstr "- 品質と形式を選択"
+
+#: youtube-scraper.py:156
+msgid "- Multi-language support"
+msgstr "- 多言語対応"
+
+#: youtube-scraper.py:157
+msgid "Usage:"
+msgstr "使用方法:"
+
+#: youtube-scraper.py:158
+msgid "1. Select 'Download Video/Audio' from the main menu"
+msgstr "1. メインメニューから「動画/音声をダウンロード」を選択"
+
+#: youtube-scraper.py:159
+msgid "2. Enter the YouTube URL"
+msgstr "2. YouTubeのURLを入力"
+
+#: youtube-scraper.py:160
+msgid "3. Choose video or audio format"
+msgstr "3. 動画または音声形式を選択"
+
+#: youtube-scraper.py:161
+msgid "4. Select quality and start download"
+msgstr "4. 品質を選択してダウンロード開始"
+
+#: youtube-scraper.py:162
+msgid "Files are saved in the 'downloads' folder."
+msgstr "ファイルは「downloads」フォルダに保存されます。"
+
+#: youtube-scraper.py:163
+msgid "Press Enter to return to main menu..."
+msgstr "Enterキーを押してメインメニューに戻る..."
+
+#: youtube-scraper.py:168
+msgid "=== Language Settings ==="
+msgstr "=== 言語設定 ==="
+
+#: youtube-scraper.py:169
+msgid "1. English"
+msgstr "1. 英語"
+
+#: youtube-scraper.py:170
+msgid "2. Japanese"
+msgstr "2. 日本語"
+
+#: youtube-scraper.py:171
+msgid "3. Auto-detect (system default)"
+msgstr "3. 自動検出（システムデフォルト）"
+
+#: youtube-scraper.py:172
+msgid "Please select language (1-3): "
+msgstr "言語を選択してください (1-3): "
+
+#: youtube-scraper.py:177
+msgid "Language changed to English."
+msgstr "言語が英語に変更されました。"
+
+#: youtube-scraper.py:181
+msgid "Language changed to Japanese."
+msgstr "言語が日本語に変更されました。"
+
+#: youtube-scraper.py:185
+msgid "Language set to auto-detect."
+msgstr "言語が自動検出に設定されました。"
+
+#: youtube-scraper.py:189
+msgid "Invalid language selection."
+msgstr "無効な言語選択です。"
+
+#: youtube-scraper.py:193
+msgid "Thank you for using YouTube Downloader!"
+msgstr "YouTube ダウンローダーをご利用いただき、ありがとうございました！"
+
+#: youtube-scraper.py:197
+msgid "Invalid option. Please try again."
+msgstr "無効なオプションです。もう一度お試しください。"
